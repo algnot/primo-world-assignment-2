@@ -1,0 +1,20 @@
+{
+  "name": "sorted-collections-merge",
+  "version": "1.0.0",
+  "description": "Merge three pre-sorted integer collections into one ascending array without using a sort function.",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": ["merge", "sorted-arrays", "typescript"],
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}

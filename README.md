@@ -51,14 +51,4 @@ Environment ที่สำคัญ
 
 ---
 
-# 💣 Sorted Collections Merge Development Role
-
-- ให้ตั้งชื่อ branch ด้วย `{ชื่อเล่น}` ของตัวเองได้เลย เช่น `tonkla/merge-collections`
-- ในการเปิด pull request ให้ใช้ชื่อ `[{ชื่อเล่น}] {สิ่งที่พัฒนา}` ทุกครั้ง เช่น `[tonkla] merge three sorted collections`
-- กรอกรายละเอียดในส่วนที่จำเป็นดังนี้
-  - รายละเอียดโค้ดที่แก้อธิบายคร่าว ๆ (What I do)
-  - วิธีรันโค้ดและ unit test
-- หากรายละเอียดของ pull request ดังกล่าวไม่ครบถ้วน ห้าม merge เด็ดขาด! หากฝ่าฝืนจะโดน rollback code ออก
-- ต้องมีคน approved อย่างน้อย 1 คน และคนที่ approved ต้องติ๊ก checklist ให้ครบทุกส่วน
-
 Happy hacking :)

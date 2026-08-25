@@ -12,8 +12,6 @@ merge(collection_1: number[], collection_2: number[], collection_3: number[]): n
 - `collection_2` เรียงมาแล้วจาก **min → max**
 - `collection_3` เรียงมาแล้วจาก **min → max**
 
-Repo: https://github.com/ttonkla/primo-world-2
-
 ---
 
 # 😶‍🌫️ Installation Guide
